@@ -1,0 +1,3 @@
+pip install termcolor
+requests==2.26.0
+termcolor==1.1.0
