@@ -44,4 +44,4 @@ You could also just run the .bat file.
 The script uses a webhooks.txt file to store Discord webhook URLs. You can add, remove, or change webhooks using the options provided.
 
 ### Troubleshooting
-# If you encounter issues running the script, please make sure you have Python installed and that the required packages are installed using the provided requirements.txt file.
+### If you encounter issues running the script, please make sure you have Python installed and that the required packages are installed using the provided requirements.txt file.
