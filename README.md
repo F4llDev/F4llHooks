@@ -1,6 +1,6 @@
 # F4llHooks
 
-F4llHooks is a Python script that allows you to send messages to Discord webhooks easily.
+F4llHooks is a Python script that allows you to send messages to Discord webhooks easily. AKA, Webhook spammer xd
 
 ## Prerequisites
 
