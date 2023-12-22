@@ -30,13 +30,7 @@ Make sure you have the following installed on your system:
 
 ## Usage
 
-Run the script using the following command:
-
-```bash
-python main.py
-```
-
-You could also just run the .bat file.
+Just run the .bat file.
 
 (Follow the on-screen prompts to send messages to Discord webhooks.)
 
